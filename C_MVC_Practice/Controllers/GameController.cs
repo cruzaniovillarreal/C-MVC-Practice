@@ -16,7 +16,7 @@ namespace C_MVC_Practice.Controllers
             return View();
         }
 
-        public IActionResult WhackAMole()
+        public IActionResult Sudoku()
         {
             return View();
         }
